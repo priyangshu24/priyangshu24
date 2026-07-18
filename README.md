@@ -1,29 +1,177 @@
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--            ⚡ PRIYANGSHU DEY — NEON EDITION ⚡                    -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi 👋, I'm priyangshu</h1>
-<h3 align="center">"Full-stack developer crafting seamless experiences across the entire tech stack</h3>
+<!-- ANIMATED GRADIENT WAVE BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20&height=220&section=header&text=PRIYANGSHU%20DEY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20in%20the%20Making&descSize=20&descAlignY=58" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyangshu24&label=Profile%20views&color=0e75b6&style=flat" alt="priyangshu24" /> </p>
+<!-- TYPING ANIMATION HERO -->
+<div align="center">
+  <a href="https://github.com/priyangshu24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Priyangshu+Dey;%F0%9F%9A%80+Building+Aakaar.IO;%F0%9F%91%91+Entrepreneurship+Enthusiast;Full-Stack+Developer+%7C+BTech+CSE+'27;Java+Spring+Boot+%E2%80%A2+MERN+%E2%80%A2+DSA;Code.+Build.+Ship.+Repeat.+%E2%9A%A1" alt="Typing SVG"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyangshu24" alt="priyangshu24" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **🔭 I'm currently working on building my DSA fundamentals and exploring numerical algorithms | BTech 3rd Year Student**
+<!-- BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyangshu24&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/priyangshu24?label=FOLLOWERS&style=for-the-badge&color=a277ff&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/badge/BUILDING-AAKAAR.IO-00f0ff?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/MINDSET-ENTREPRENEUR-a277ff?style=for-the-badge&labelColor=0d1117&logo=lightning&logoColor=a277ff" />
+</div>
 
-- 🌱 I’m currently learning **🌱 I'm currently learning Web Development, Data Structures & Algorithms, Java Spring Boot**
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-- 👯 I’m looking to collaborate on **🤝 I'm looking to collaborate on open source projects - preparing for GSoC 2026!**
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> About Me
 
-- 🤝 I’m looking for help with **🤲 I'm looking for help with contributing to established open source communities**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding"/>
 
-- 📫 How to reach me **priyangshudey773@gmail.com**
+- 🚀 **Founder & Builder** — currently building **Aakaar.IO**
+- 👑 **Entrepreneurship Enthusiast** — obsessed with turning ideas into products
+- 💻 **Full-Stack Developer** — BTech CSE, 3rd Year
+- 🔭 Sharpening **DSA fundamentals** & exploring **numerical algorithms**
+- 🌱 Learning **Web Development** & **Java Spring Boot**
+- 🤝 Open to **collaborations & open source**
+- 📫 Reach me at **priyangshudey773@gmail.com**
+- ⚡ Fun fact: *I debug with `console.log` and I'm not ashamed* 😎
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyangshu dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyangshu dey" height="30" width="40" /></a>
-</p>
+<br clear="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyangshu24&show_icons=true&locale=en" alt="priyangshu24" /></p>
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> Tech Arsenal
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyangshu24&" alt="priyangshu24" /></p>
+<div align="center">
+
+**⚡ Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,php&theme=dark" />
+
+**🖥️ Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,angular,vue,vuetify,html,css,bootstrap,figma&theme=dark" />
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,dotnet&theme=dark" />
+
+**🗄️ Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp&theme=dark" />
+
+**🛠️ Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,pytorch,vscode&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyangshu24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangshu24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=priyangshu24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- PROFILE SUMMARY DASHBOARD -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyangshu24&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyangshu24&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyangshu24&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyangshu24&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyangshu24&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&radius=8&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyangshu24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyangshu24/priyangshu24/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyangshu24/priyangshu24/output/github-snake.svg"/>
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/priyangshu24/priyangshu24/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+> 🐍 *Snake not visible? Run the `Generate Snake` workflow once from your repo's Actions tab (`.github/workflows/snake.yml`).*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"> Current Mission
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="90"/><br/>
+      <b>🚀 Building</b><br/>
+      <sub><b>Aakaar.IO</b><br/>from zero to launch</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90"/><br/>
+      <b>🌱 Learning</b><br/>
+      <sub>Web Dev • DSA •<br/>Java Spring Boot</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90"/><br/>
+      <b>👑 Vision</b><br/>
+      <sub>Entrepreneurship —<br/>ideas ➜ products ➜ impact</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/priyangshu-dey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0d1117"/>
+  </a>
+  <a href="mailto:priyangshudey773@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-a277ff?style=for-the-badge&logo=gmail&logoColor=a277ff&labelColor=0d1117"/>
+  </a>
+  <a href="https://github.com/priyangshu24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-00f0ff?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0d1117"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+</div>
+
+<!-- ANIMATED GRADIENT FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9A%A1&fontColor=ffffff&fontSize=22&fontAlignY=80&animation=fadeIn" width="100%"/>
+</div>
