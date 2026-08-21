@@ -75,8 +75,8 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyangshu24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyangshu24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyangshu24&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyangshu24&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -108,22 +108,20 @@
 
 <!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyangshu24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=priyangshu24" alt="Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Contribution Snake
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Contribution Overview
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyangshu24/priyangshu24/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyangshu24/priyangshu24/output/github-snake.svg"/>
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/priyangshu24/priyangshu24/output/github-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyangshu24&theme=tokyo-night&custom_title=Contribution%20Overview&hide_border=true&radius=8&area=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyangshu24&theme=github-compact&custom_title=Contribution%20Overview&hide_border=true&radius=8&area=true"/>
+    <img alt="Contribution overview" src="https://github-readme-activity-graph.vercel.app/graph?username=priyangshu24&theme=tokyo-night&custom_title=Contribution%20Overview&hide_border=true&radius=8&area=true" width="100%"/>
   </picture>
 </div>
-
-> 🐍 *Snake not visible? Run the `Generate Snake` workflow once from your repo's Actions tab (`.github/workflows/snake.yml`).*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
 
